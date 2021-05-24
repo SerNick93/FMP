@@ -1,0 +1,2 @@
+D:\Celt\ProjectCelt\Intermediate\Build\Win64\UE4Editor\Development\ProjectCelt\Definitions.ProjectCelt.h
+D:\Celt\ProjectCelt\Source\ProjectCelt\ProjectCelt.h

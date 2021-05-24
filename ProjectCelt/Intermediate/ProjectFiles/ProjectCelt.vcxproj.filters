@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjectCelt.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{870B2539-12C1-451E-B26C-3CDBA6672A68}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectCelt.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjectCeltEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F1C5747B-3A6F-4FE9-B7B4-034279BD8501}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjectCelt">
+      <UniqueIdentifier>{932934DB-A6C5-43EF-BC3D-4098887A2E29}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectCelt\ProjectCelt.Build.cs">
+      <Filter>Source\ProjectCelt</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectCelt\ProjectCelt.cpp">
+      <Filter>Source\ProjectCelt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectCelt\ProjectCelt.h">
+      <Filter>Source\ProjectCelt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectCelt\ProjectCeltCharacter.cpp">
+      <Filter>Source\ProjectCelt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectCelt\ProjectCeltCharacter.h">
+      <Filter>Source\ProjectCelt</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ProjectCelt\ProjectCeltGameMode.cpp">
+      <Filter>Source\ProjectCelt</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectCelt\ProjectCeltGameMode.h">
+      <Filter>Source\ProjectCelt</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
