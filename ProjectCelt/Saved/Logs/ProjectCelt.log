@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 05/24/21 17:49:20
+=======
+﻿Log file open, 05/24/21 15:20:35
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 05/24/21 15:20:35
 >>>>>>> Stashed changes
@@ -8,8 +12,13 @@ LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: ProjectCelt
 LogPlatformFile: Not using cached read wrapper
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 7.273867
+=======
+LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.179038
+>>>>>>> Stashed changes
 =======
 LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 1.179038
@@ -22,6 +31,7 @@ LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin Paper2D
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin VariantManagerContent
@@ -29,6 +39,9 @@ LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin Niagara
 =======
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
+=======
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin AnimationSharing
@@ -51,6 +64,7 @@ LogPluginManager: Mounting plugin XCodeSourceCodeAccess
 LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin VariantManagerContent
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin CryptoKeys
 LogPluginManager: Mounting plugin AssetManagerEditor
@@ -68,6 +82,19 @@ LogPluginManager: Mounting plugin SpeedTreeImporter
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin MagicLeap
 =======
+=======
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AlembicImporter
 LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin BackChannel
@@ -88,6 +115,9 @@ LogPluginManager: Mounting plugin SkeletalReduction
 LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin LuminPlatformFeatures
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
@@ -116,13 +146,19 @@ LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin MediaCompositing
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin UdpMessaging
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin WmfMedia
@@ -131,6 +167,7 @@ LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin TemplateSequence
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin UdpMessaging
@@ -156,6 +193,11 @@ LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin SkeletalReduction
+=======
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemNull
@@ -194,6 +236,9 @@ LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 LogPluginManager: Mounting plugin LauncherChunkInstaller
 LogPluginManager: Mounting plugin ScreenshotTools
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
@@ -210,8 +255,13 @@ LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+=======
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
@@ -221,9 +271,12 @@ LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogXGEController: Cleaning working directory: C:/Users/ocull/AppData/Local/Temp/UnrealXGEWorkingDir/
 LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
 =======
+=======
+>>>>>>> Stashed changes
 LogXGEController: Cleaning working directory: C:/Users/Nick/AppData/Local/Temp/UnrealXGEWorkingDir/
 LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
 LogInit: Warning: Incompatible or missing module: ProjectCelt
@@ -265,6 +318,9 @@ Building 11 actions with 5 processes...
   [11/11] ProjectCeltEditor.target
 Total time in Parallel executor: 27.98 seconds
 Total execution time: 67.22 seconds
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
@@ -298,7 +354,11 @@ LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.26
 LogInit: Command Line: 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogInit: Base Directory: D:/UnrealEngine/UE_4.26/Engine/Binaries/Win64/
+=======
+LogInit: Base Directory: H:/UE_4.26/Engine/Binaries/Win64/
+>>>>>>> Stashed changes
 =======
 LogInit: Base Directory: H:/UE_4.26/Engine/Binaries/Win64/
 >>>>>>> Stashed changes
@@ -336,7 +396,11 @@ LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/FMP/ProjectCelt/Saved/Config/Windows/Engine.ini]
+=======
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [H:/Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/Config/Windows/Engine.ini]
+>>>>>>> Stashed changes
 =======
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [H:/Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/Config/Windows/Engine.ini]
 >>>>>>> Stashed changes
@@ -357,6 +421,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2021.05.24-16.49.28:072][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.05.24-16.49.28:072][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1573,6 +1638,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.24-16.56.25:863][704]LogExit: Exiting.
 [2021.05.24-16.56.25:888][704]Log file closed, 05/24/21 17:56:25
 =======
+=======
+>>>>>>> Stashed changes
 [2021.05.24-14.21.56:071][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.05.24-14.21.56:071][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.05.24-14.21.56:072][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [H:/Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/Config/Windows/Engine.ini]
@@ -7250,4 +7317,7 @@ Please see Output Log for details.
 [2021.05.24-18.55.32:079][816]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
 [2021.05.24-18.55.32:079][816]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
 [2021.05.24-18.55.41:436][816]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
