@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "ProjectCelt",
-			"Path": "D:\\Celt\\ProjectCelt\\Source\\ProjectCelt.Target.cs",
+			"Path": "H:\\Game Dev\\Unreal\\Mod5\\FMP\\ProjectCelt\\Source\\ProjectCelt.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "ProjectCeltEditor",
-			"Path": "D:\\Celt\\ProjectCelt\\Source\\ProjectCeltEditor.Target.cs",
+			"Path": "H:\\Game Dev\\Unreal\\Mod5\\FMP\\ProjectCelt\\Source\\ProjectCeltEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
