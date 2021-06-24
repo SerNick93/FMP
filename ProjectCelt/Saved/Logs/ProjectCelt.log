@@ -9177,3 +9177,722 @@ Make sure 'QuestParent_C' has been compiled for  Get SlotIndex
 [2021.06.24-12.57.13:549][100]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameContent/Quest/QuestUI/QuestUI.QuestUI
 [2021.06.24-12.57.13:549][100]LogContentValidation: Display: Validating Blueprint /Game/GameContent/Inventory/Items/Item_Flask.Item_Flask
 [2021.06.24-12.57.13:549][100]LogContentValidation: Display: Validating World /Game/Levels/Maps/WorldMap.WorldMap
+[2021.06.24-13.30.21:055][401]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameContent/Quest/Quests/Quest_Tutorial.Quest_Tutorial
+[2021.06.24-13.30.22:251][504]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.30.22:252][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.31.13:804][434]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/CheckObjectiveTask.CheckObjectiveTask
+[2021.06.24-13.32.03:756][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.06.24-13.32.03:757][219]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Maps/WorldMap' took 0.040
+[2021.06.24-13.32.03:757][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/CheckObjectiveTask] ([1] browsable assets)...
+[2021.06.24-13.32.03:757][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/CheckObjectiveTask]
+[2021.06.24-13.32.04:353][219]LogSavePackage: Moving '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/CheckObjectiveTask_Auto070DFBEB04F008B5A6BC845ACD67929C2.tmp' to '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/Autosaves/Game/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/CheckObjectiveTask_Auto0.uasset'
+[2021.06.24-13.32.04:353][219]LogFileHelpers: Auto-saving content packages took 0.597
+[2021.06.24-13.33.38:430][207]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.24-13.33.57:484][450]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/ObjectiveChecker.ObjectiveChecker
+[2021.06.24-13.34.17:966][813]BlueprintLog: New page: Compile ObjectiveChecker
+[2021.06.24-13.34.18:020][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.06.24-13.34.22:443][327]LogEditorViewport: Clicking on Actor (LMB): NPC_C (QuestGiver4)
+[2021.06.24-13.34.39:655][770]BlueprintLog: New page: Compile ObjectiveChecker
+[2021.06.24-13.34.39:702][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.06.24-13.34.55:949][705]LogEditorViewport: Clicking on Actor (LMB): LocationMarker_C (LocationMarker3)
+[2021.06.24-13.35.40:940][ 10]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GameContent/Quest/LocationMarker.LocationMarker
+[2021.06.24-13.35.55:781][492]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC)
+[2021.06.24-13.36.11:203][271]BlueprintLog: New page: Compile ObjectiveChecker
+[2021.06.24-13.36.11:257][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.06.24-13.36.26:532][ 33]BlueprintLog: New page: Compile ObjectiveChecker
+[2021.06.24-13.36.26:586][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.06.24-13.37.37:210][302]BlueprintLog: New page: Compile ObjectiveChecker
+[2021.06.24-13.37.37:266][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.06.24-13.38.14:017][579]BlueprintLog: New page: Compile CheckObjectiveTask
+[2021.06.24-13.38.14:021][579]LogBlueprint: Error: [AssetLog] H:\Game Dev\Unreal\Mod5\FMP\ProjectCelt\Content\GameContent\DIALOGUE\DialogueTrees\ObjectiveCheckComponent\CheckObjectiveTask.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2021.06.24-13.38.14:071][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.06.24-13.39.10:671][296]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.11:011][311]LogEditorTransaction: Undo Move Nodes
+[2021.06.24-13.39.11:277][330]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.11:521][357]LogEditorTransaction: Undo Move Nodes
+[2021.06.24-13.39.11:769][385]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.12:060][418]LogEditorTransaction: Undo Create Pin Link
+[2021.06.24-13.39.12:371][452]LogEditorTransaction: Undo Create Pin Link
+[2021.06.24-13.39.12:682][488]LogEditorTransaction: Undo Delete current selection
+[2021.06.24-13.39.13:040][525]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.13:390][565]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.13:728][604]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.14:083][645]LogEditorTransaction: Undo Create Pin Link
+[2021.06.24-13.39.14:430][685]LogEditorTransaction: Undo Create Pin Link
+[2021.06.24-13.39.14:767][724]LogEditorTransaction: Undo Create Pin Link
+[2021.06.24-13.39.15:112][764]LogEditorTransaction: Undo Create Pin Link
+[2021.06.24-13.39.15:432][801]LogEditorTransaction: Undo Create Pin Link
+[2021.06.24-13.39.15:745][837]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.16:059][872]LogEditorTransaction: Undo Split Struct Pin
+[2021.06.24-13.39.16:419][913]LogEditorTransaction: Undo Add Node
+[2021.06.24-13.39.16:796][956]LogEditorTransaction: Undo Delete current selection
+[2021.06.24-13.39.17:160][997]LogEditorTransaction: Undo Rename Variable
+[2021.06.24-13.39.17:501][ 37]LogEditorTransaction: Undo Change Parameter Type
+[2021.06.24-13.39.17:812][ 72]LogEditorTransaction: Undo Add Variable
+[2021.06.24-13.39.18:193][117]LogEditorTransaction: Undo Remove Variable
+[2021.06.24-13.39.18:541][157]LogEditorTransaction: Undo Remove Variable
+[2021.06.24-13.39.18:854][194]LogEditorTransaction: Undo Create Pin Link
+[2021.06.24-13.39.19:193][233]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.19:620][281]LogEditorTransaction: Undo Add Node
+[2021.06.24-13.39.19:974][320]LogEditorTransaction: Undo Delete current selection
+[2021.06.24-13.39.20:331][361]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.20:682][401]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.20:989][436]LogEditorTransaction: Undo Add Node
+[2021.06.24-13.39.21:308][472]LogEditorTransaction: Undo Change Parameter Type
+[2021.06.24-13.39.21:610][507]LogEditorTransaction: Undo Rename Variable
+[2021.06.24-13.39.21:960][548]LogEditorTransaction: Undo Add Variable
+[2021.06.24-13.39.22:302][588]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.24-13.39.22:634][627]LogEditorTransaction: Undo Remove Variable
+[2021.06.24-13.39.22:949][663]LogEditorTransaction: Undo Rename Variable
+[2021.06.24-13.39.23:269][699]LogEditorTransaction: Undo Add Variable
+[2021.06.24-13.39.23:592][734]LogEditorTransaction: Undo Create Pin Link
+[2021.06.24-13.39.23:893][767]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.24:200][802]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.24:570][845]LogEditorTransaction: Undo Create Pin Link
+[2021.06.24-13.39.24:913][884]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.25:262][924]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.25:590][962]LogEditorTransaction: Undo Create Pin Link
+[2021.06.24-13.39.25:917][999]LogEditorTransaction: Undo Delete current selection
+[2021.06.24-13.39.26:256][ 37]LogEditorTransaction: Undo Create Pin Link
+[2021.06.24-13.39.26:711][ 90]LogEditorTransaction: Undo Add Node
+[2021.06.24-13.39.27:146][140]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.24-13.39.27:491][181]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2021.06.24-13.39.27:838][220]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2021.06.24-13.39.28:210][261]LogEditorTransaction: Undo Clicking on Actors
+[2021.06.24-13.39.28:604][306]LogEditorTransaction: Undo Rename Variable
+[2021.06.24-13.39.28:968][349]LogEditorTransaction: Undo Change Parameter Type
+[2021.06.24-13.39.29:355][394]LogEditorTransaction: Undo Add Variable
+[2021.06.24-13.39.29:693][434]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.30:101][481]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.30:464][523]LogEditorTransaction: Undo Create Pin Link
+[2021.06.24-13.39.30:805][562]LogEditorTransaction: Undo Create Pin Link
+[2021.06.24-13.39.31:158][603]LogEditorTransaction: Undo Move Nodes
+[2021.06.24-13.39.31:621][656]LogEditorTransaction: Undo Move Nodes
+[2021.06.24-13.39.32:175][721]LogEditorTransaction: Undo Add Node
+[2021.06.24-13.39.32:731][786]LogEditorTransaction: Undo Break Pin Links
+[2021.06.24-13.39.33:217][842]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.34:026][937]LogEditorTransaction: Undo Delete current selection
+[2021.06.24-13.39.34:390][979]LogEditorTransaction: Undo Delete current selection
+[2021.06.24-13.39.34:745][ 20]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.39.35:094][ 60]LogEditorTransaction: Undo Move Node
+[2021.06.24-13.40.22:287][707]BlueprintLog: New page: Compile ObjectiveChecker
+[2021.06.24-13.40.22:350][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.06.24-13.40.27:104][225]LogEditorViewport: Clicking on Actor (LMB): NPC_C (NPC)
+[2021.06.24-13.40.29:510][490]LogEditorViewport: Clicking on Actor (LMB): NPC_C (QuestGiver4)
+[2021.06.24-13.40.35:224][128]BlueprintLog: New page: Compile ObjectiveChecker
+[2021.06.24-13.40.35:274][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.06.24-13.41.25:495][  1]BlueprintLog: New page: Compile CheckObjectiveTask
+[2021.06.24-13.41.25:549][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.06.24-13.41.37:214][357]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.24-13.41.37:219][357]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.24-13.41.37:220][357]LogPlayLevel: [PlayLevel] Compiling LocationMarker before play...
+[2021.06.24-13.41.37:301][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.06.24-13.41.37:302][357]LogPlayLevel: PlayLevel: Blueprint regeneration took 83 ms (1 blueprints)
+[2021.06.24-13.41.37:302][357]PIE: New page: PIE session: WorldMap (24 Jun 2021, 15:41:37)
+[2021.06.24-13.41.37:302][357]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_WorldMap
+[2021.06.24-13.41.37:317][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014388s)
+[2021.06.24-13.41.37:318][357]LogAIModule: Creating AISystem for world WorldMap
+[2021.06.24-13.41.37:318][357]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2021.06.24-13.41.37:318][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/WorldMap.WorldMap to /Game/Levels/Maps/UEDPIE_0_WorldMap.WorldMap (0.015417s)
+[2021.06.24-13.41.37:349][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.06.24-13.41.37:350][357]LogAudio: Display: Creating Audio Device:                 Id: 91, Scope: Unique, Realtime: True
+[2021.06.24-13.41.37:350][357]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-13.41.37:350][357]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-13.41.37:350][357]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-13.41.37:350][357]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-13.41.37:350][357]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-13.41.37:350][357]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-13.41.37:350][357]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-13.41.37:350][357]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-13.41.37:351][357]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-13.41.37:351][357]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-13.41.37:354][357]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-13.41.37:354][357]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-13.41.37:370][357]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-13.41.37:370][357]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-13.41.37:370][357]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-13.41.37:371][357]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-13.41.37:371][357]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-13.41.37:371][357]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-13.41.37:371][357]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-13.41.37:382][357]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-13.41.37:382][357]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-13.41.37:382][357]LogInit: FAudioDevice initialized.
+[2021.06.24-13.41.37:382][357]LogAudio: Display: Audio Device (ID: 91) registered with world 'WorldMap'.
+[2021.06.24-13.41.37:402][357]LogLoad: Game class is 'BlairGameMode_C'
+[2021.06.24-13.41.37:418][357]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_WorldMap.WorldMap up for play (max tick rate 0) at 2021.06.24-14.41.37
+[2021.06.24-13.41.37:419][357]LogWorld: Bringing up level for play took: 0.015675
+[2021.06.24-13.41.37:420][357]LogOnline: OSS: Creating online subsystem instance for: :Context_151
+[2021.06.24-13.41.37:421][357]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.24-13.41.37:424][357]PIE: Server logged in
+[2021.06.24-13.41.37:424][357]PIE: Play in editor total start time 0.206 seconds.
+[2021.06.24-13.41.37:692][387]LogBlueprintUserMessages: [Unarmed_C_0] unarmed attack
+[2021.06.24-13.41.38:207][449]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 83
+[2021.06.24-13.41.39:208][569]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 86
+[2021.06.24-13.41.40:207][689]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 89
+[2021.06.24-13.41.40:584][734]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.41.40:584][734]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.06.24-13.41.40:584][734]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.24-13.41.40:584][734]LogBlueprintUserMessages: [ResponsesUI_C_0] ResponsesUI_C_0
+[2021.06.24-13.41.40:584][734]LogBlueprintUserMessages: [ResponsesUI_C_1] ResponsesUI_C_1
+[2021.06.24-13.41.40:584][734]LogBlueprintUserMessages: [ResponsesUI_C_2] ResponsesUI_C_2
+[2021.06.24-13.41.41:208][809]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 92
+[2021.06.24-13.41.41:376][829]LogBlueprintUserMessages: [ResponsesUI_C_3] ResponsesUI_C_3
+[2021.06.24-13.41.41:376][829]LogBlueprintUserMessages: [ResponsesUI_C_4] ResponsesUI_C_4
+[2021.06.24-13.41.42:034][908]LogBlueprintUserMessages: [ResponsesUI_C_5] ResponsesUI_C_5
+[2021.06.24-13.41.42:034][908]LogBlueprintUserMessages: [ResponsesUI_C_6] ResponsesUI_C_6
+[2021.06.24-13.41.42:209][929]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 95
+[2021.06.24-13.41.42:401][952]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.24-13.41.42:401][952]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2021.06.24-13.41.43:209][ 49]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 98
+[2021.06.24-13.41.43:391][ 71]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.41.43:391][ 71]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.06.24-13.41.44:209][169]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 101
+[2021.06.24-13.41.58:951][583]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.41.58:951][583]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.06.24-13.41.58:951][583]LogBlueprintUserMessages: [ResponsesUI_C_7] ResponsesUI_C_7
+[2021.06.24-13.42.00:882][812]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.42.00:882][812]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.06.24-13.42.01:861][928]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.24-13.42.01:861][928]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.42.01:861][928]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.06.24-13.42.04:125][194]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.42.04:125][194]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.06.24-13.42.08:131][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-13.42.08:131][657]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_WorldMap
+[2021.06.24-13.42.08:132][657]LogWorld: UWorld::CleanupWorld for WorldMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.42.08:140][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.42.08:154][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-13.42.08:194][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.42.08:224][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-13.42.08:225][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-13.42.08:226][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-13.42.08:242][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.06.24-13.42.08:296][658]LogPlayLevel: Display: Destroying online subsystem :Context_151
+[2021.06.24-13.42.14:519][357]LogEditorViewport: Clicking on Actor (LMB): LocationMarker_C (LocationMarker2)
+[2021.06.24-13.42.55:250][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.06.24-13.42.55:312][163]LogSavePackage: Moving '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/WorldMap_Auto1FF0E30DC4A5FD8A5014F6E952725817F.tmp' to '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/Autosaves/Game/Levels/Maps/WorldMap_Auto1.umap'
+[2021.06.24-13.42.55:312][163]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Maps/WorldMap' took 0.093
+[2021.06.24-13.42.55:312][163]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.093
+[2021.06.24-13.42.55:313][163]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameContent/Quest/LocationMarker] ([2] browsable assets)...
+[2021.06.24-13.42.55:321][163]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameContent/Quest/LocationMarker.LocationMarker]
+[2021.06.24-13.42.55:328][163]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameContent/Quest/LocationMarker.LocationMarker]
+[2021.06.24-13.42.55:328][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameContent/Quest/LocationMarker]
+[2021.06.24-13.42.56:081][163]LogSavePackage: Moving '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/LocationMarker_Auto15C6700DC4E99BA105072419C5126C019.tmp' to '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/Autosaves/Game/GameContent/Quest/LocationMarker_Auto1.uasset'
+[2021.06.24-13.42.56:081][163]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/ObjectiveChecker] ([2] browsable assets)...
+[2021.06.24-13.42.56:081][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/ObjectiveChecker]
+[2021.06.24-13.42.56:084][163]LogSavePackage: Moving '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/ObjectiveChecker_Auto107F0D3A14DFF55D02DFAA99FCCA05010.tmp' to '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/Autosaves/Game/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/ObjectiveChecker_Auto1.uasset'
+[2021.06.24-13.42.56:084][163]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/CheckObjectiveTask] ([1] browsable assets)...
+[2021.06.24-13.42.56:084][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/CheckObjectiveTask]
+[2021.06.24-13.42.56:094][163]LogSavePackage: Moving '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/CheckObjectiveTask_Auto1685F96AE42C3D53653599F9D5CC61EF6.tmp' to '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/Autosaves/Game/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/CheckObjectiveTask_Auto1.uasset'
+[2021.06.24-13.42.56:095][163]LogFileHelpers: Auto-saving content packages took 0.782
+[2021.06.24-13.43.37:531][ 15]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.06.24-13.44.31:391][326]BlueprintLog: New page: Compile LocationMarker
+[2021.06.24-13.44.31:462][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.06.24-13.45.06:033][352]BlueprintLog: New page: Compile LocationMarker
+[2021.06.24-13.45.06:105][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.06.24-13.45.11:545][974]LogEditorViewport: Clicking on Actor (LMB): LocationMarker_C (LocationMarker)
+[2021.06.24-13.45.22:886][309]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.24-13.45.22:891][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-13.45.22:891][309]PIE: New page: PIE session: WorldMap (24 Jun 2021, 15:45:22)
+[2021.06.24-13.45.22:935][309]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_WorldMap
+[2021.06.24-13.45.22:949][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014084s)
+[2021.06.24-13.45.22:950][309]LogAIModule: Creating AISystem for world WorldMap
+[2021.06.24-13.45.22:950][309]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2021.06.24-13.45.22:950][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/WorldMap.WorldMap to /Game/Levels/Maps/UEDPIE_0_WorldMap.WorldMap (0.015230s)
+[2021.06.24-13.45.22:983][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.06.24-13.45.22:985][309]LogAudio: Display: Creating Audio Device:                 Id: 92, Scope: Unique, Realtime: True
+[2021.06.24-13.45.22:985][309]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-13.45.22:985][309]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-13.45.22:985][309]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-13.45.22:985][309]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-13.45.22:985][309]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-13.45.22:985][309]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-13.45.22:985][309]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-13.45.22:985][309]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-13.45.22:985][309]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-13.45.22:985][309]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-13.45.22:988][309]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-13.45.22:988][309]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-13.45.23:004][309]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-13.45.23:005][309]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-13.45.23:005][309]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-13.45.23:005][309]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-13.45.23:005][309]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-13.45.23:005][309]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-13.45.23:005][309]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-13.45.23:017][309]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-13.45.23:017][309]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-13.45.23:017][309]LogInit: FAudioDevice initialized.
+[2021.06.24-13.45.23:017][309]LogAudio: Display: Audio Device (ID: 92) registered with world 'WorldMap'.
+[2021.06.24-13.45.23:024][309]LogLoad: Game class is 'BlairGameMode_C'
+[2021.06.24-13.45.23:033][309]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_WorldMap.WorldMap up for play (max tick rate 0) at 2021.06.24-14.45.23
+[2021.06.24-13.45.23:035][309]LogWorld: Bringing up level for play took: 0.009774
+[2021.06.24-13.45.23:035][309]LogOnline: OSS: Creating online subsystem instance for: :Context_152
+[2021.06.24-13.45.23:035][309]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.24-13.45.23:038][309]PIE: Server logged in
+[2021.06.24-13.45.23:039][309]PIE: Play in editor total start time 0.149 seconds.
+[2021.06.24-13.45.23:275][336]LogBlueprintUserMessages: [Unarmed_C_0] unarmed attack
+[2021.06.24-13.45.23:882][409]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 83
+[2021.06.24-13.45.24:882][529]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 86
+[2021.06.24-13.45.25:883][649]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 89
+[2021.06.24-13.45.25:924][654]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.45.25:925][654]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.06.24-13.45.25:925][654]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.24-13.45.25:925][654]LogBlueprintUserMessages: [ResponsesUI_C_0] ResponsesUI_C_0
+[2021.06.24-13.45.25:925][654]LogBlueprintUserMessages: [ResponsesUI_C_1] ResponsesUI_C_1
+[2021.06.24-13.45.25:925][654]LogBlueprintUserMessages: [ResponsesUI_C_2] ResponsesUI_C_2
+[2021.06.24-13.45.26:642][740]LogBlueprintUserMessages: [ResponsesUI_C_3] ResponsesUI_C_3
+[2021.06.24-13.45.26:642][740]LogBlueprintUserMessages: [ResponsesUI_C_4] ResponsesUI_C_4
+[2021.06.24-13.45.26:883][769]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 92
+[2021.06.24-13.45.27:000][783]LogBlueprintUserMessages: [ResponsesUI_C_5] ResponsesUI_C_5
+[2021.06.24-13.45.27:000][783]LogBlueprintUserMessages: [ResponsesUI_C_6] ResponsesUI_C_6
+[2021.06.24-13.45.27:392][830]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.24-13.45.27:392][830]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2021.06.24-13.45.27:883][889]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 95
+[2021.06.24-13.45.28:382][949]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.45.28:382][949]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.06.24-13.45.28:883][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 98
+[2021.06.24-13.45.29:883][129]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 101
+[2021.06.24-13.45.31:735][351]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.24-13.45.31:735][351]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.45.31:735][351]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.06.24-13.45.33:984][621]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.45.33:984][621]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.06.24-13.45.36:887][969]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.45.36:887][969]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.06.24-13.45.36:887][969]LogBlueprintUserMessages: [ResponsesUI_C_7] ResponsesUI_C_7
+[2021.06.24-13.45.38:903][211]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.45.38:903][211]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.06.24-13.45.48:500][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-13.45.48:500][353]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_WorldMap
+[2021.06.24-13.45.48:501][353]LogWorld: UWorld::CleanupWorld for WorldMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.45.48:509][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.45.48:538][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-13.45.48:548][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.45.48:577][353]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-13.45.48:577][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-13.45.48:578][353]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-13.45.48:591][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-13.45.48:594][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.06.24-13.45.48:637][354]LogPlayLevel: Display: Destroying online subsystem :Context_152
+[2021.06.24-13.45.54:217][815]LogEditorViewport: Clicking on Actor (LMB): NPC_C (QuestGiver4)
+[2021.06.24-13.46.02:586][761]LogEditorViewport: Clicking on Actor (LMB): LocationMarker_C (LocationMarker)
+[2021.06.24-13.46.08:558][462]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.24-13.46.08:563][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-13.46.08:563][462]PIE: New page: PIE session: WorldMap (24 Jun 2021, 15:46:08)
+[2021.06.24-13.46.08:585][462]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_WorldMap
+[2021.06.24-13.46.08:599][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013935s)
+[2021.06.24-13.46.08:600][462]LogAIModule: Creating AISystem for world WorldMap
+[2021.06.24-13.46.08:600][462]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2021.06.24-13.46.08:600][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/WorldMap.WorldMap to /Game/Levels/Maps/UEDPIE_0_WorldMap.WorldMap (0.014825s)
+[2021.06.24-13.46.08:630][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.06.24-13.46.08:631][462]LogAudio: Display: Creating Audio Device:                 Id: 93, Scope: Unique, Realtime: True
+[2021.06.24-13.46.08:631][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-13.46.08:631][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-13.46.08:631][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-13.46.08:631][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-13.46.08:631][462]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-13.46.08:631][462]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-13.46.08:631][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-13.46.08:631][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-13.46.08:632][462]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-13.46.08:632][462]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-13.46.08:635][462]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-13.46.08:635][462]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-13.46.08:650][462]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-13.46.08:650][462]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-13.46.08:650][462]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-13.46.08:651][462]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-13.46.08:651][462]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-13.46.08:651][462]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-13.46.08:651][462]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-13.46.08:662][462]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-13.46.08:662][462]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-13.46.08:662][462]LogInit: FAudioDevice initialized.
+[2021.06.24-13.46.08:662][462]LogAudio: Display: Audio Device (ID: 93) registered with world 'WorldMap'.
+[2021.06.24-13.46.08:671][462]LogLoad: Game class is 'BlairGameMode_C'
+[2021.06.24-13.46.08:680][462]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_WorldMap.WorldMap up for play (max tick rate 0) at 2021.06.24-14.46.08
+[2021.06.24-13.46.08:681][462]LogWorld: Bringing up level for play took: 0.009095
+[2021.06.24-13.46.08:681][462]LogOnline: OSS: Creating online subsystem instance for: :Context_153
+[2021.06.24-13.46.08:682][462]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.24-13.46.08:684][462]PIE: Server logged in
+[2021.06.24-13.46.08:685][462]PIE: Play in editor total start time 0.123 seconds.
+[2021.06.24-13.46.08:921][489]LogBlueprintUserMessages: [Unarmed_C_0] unarmed attack
+[2021.06.24-13.46.09:553][565]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 83
+[2021.06.24-13.46.10:553][685]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 86
+[2021.06.24-13.46.11:553][805]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 89
+[2021.06.24-13.46.11:955][853]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.46.11:955][853]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.06.24-13.46.11:955][853]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.24-13.46.11:955][853]LogBlueprintUserMessages: [ResponsesUI_C_0] ResponsesUI_C_0
+[2021.06.24-13.46.11:955][853]LogBlueprintUserMessages: [ResponsesUI_C_1] ResponsesUI_C_1
+[2021.06.24-13.46.11:955][853]LogBlueprintUserMessages: [ResponsesUI_C_2] ResponsesUI_C_2
+[2021.06.24-13.46.12:554][925]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 92
+[2021.06.24-13.46.12:697][942]LogBlueprintUserMessages: [ResponsesUI_C_3] ResponsesUI_C_3
+[2021.06.24-13.46.12:697][942]LogBlueprintUserMessages: [ResponsesUI_C_4] ResponsesUI_C_4
+[2021.06.24-13.46.12:997][978]LogBlueprintUserMessages: [ResponsesUI_C_5] ResponsesUI_C_5
+[2021.06.24-13.46.12:997][978]LogBlueprintUserMessages: [ResponsesUI_C_6] ResponsesUI_C_6
+[2021.06.24-13.46.13:313][ 16]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.24-13.46.13:313][ 16]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2021.06.24-13.46.13:554][ 45]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 95
+[2021.06.24-13.46.14:555][165]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 98
+[2021.06.24-13.46.15:555][285]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 101
+[2021.06.24-13.46.16:163][358]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.46.16:163][358]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.06.24-13.46.17:089][469]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.24-13.46.17:089][469]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.46.17:089][469]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.06.24-13.46.18:539][643]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.46.18:539][643]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.06.24-13.46.23:236][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-13.46.23:236][201]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_WorldMap
+[2021.06.24-13.46.23:236][201]LogWorld: UWorld::CleanupWorld for WorldMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.46.23:238][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.46.23:244][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-13.46.23:252][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.46.23:283][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-13.46.23:283][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-13.46.23:284][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-13.46.23:300][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.06.24-13.46.23:341][202]LogPlayLevel: Display: Destroying online subsystem :Context_153
+[2021.06.24-13.47.09:599][457]LogEditorViewport: Clicking on Actor (LMB): NPC_C (QuestGiver4)
+[2021.06.24-13.47.19:799][553]LogEditorViewport: Clicking on Actor (LMB): LocationMarker_C (LocationMarker)
+[2021.06.24-13.47.39:335][759]BlueprintLog: New page: Compile LocationMarker
+[2021.06.24-13.47.39:403][759]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.06.24-13.47.55:622][638]BlueprintLog: New page: Compile LocationMarker
+[2021.06.24-13.47.55:690][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.06.24-13.47.56:904][752]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.24-13.47.56:908][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-13.47.56:908][752]PIE: New page: PIE session: WorldMap (24 Jun 2021, 15:47:56)
+[2021.06.24-13.47.56:935][752]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_WorldMap
+[2021.06.24-13.47.56:951][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016265s)
+[2021.06.24-13.47.56:952][752]LogAIModule: Creating AISystem for world WorldMap
+[2021.06.24-13.47.56:952][752]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2021.06.24-13.47.56:952][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/WorldMap.WorldMap to /Game/Levels/Maps/UEDPIE_0_WorldMap.WorldMap (0.017333s)
+[2021.06.24-13.47.56:983][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.06.24-13.47.56:984][752]LogAudio: Display: Creating Audio Device:                 Id: 94, Scope: Unique, Realtime: True
+[2021.06.24-13.47.56:984][752]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-13.47.56:984][752]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-13.47.56:984][752]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-13.47.56:984][752]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-13.47.56:984][752]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-13.47.56:984][752]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-13.47.56:984][752]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-13.47.56:984][752]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-13.47.56:984][752]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-13.47.56:984][752]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-13.47.56:988][752]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-13.47.56:988][752]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-13.47.57:003][752]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-13.47.57:003][752]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-13.47.57:003][752]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-13.47.57:003][752]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-13.47.57:004][752]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-13.47.57:004][752]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-13.47.57:004][752]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-13.47.57:015][752]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-13.47.57:015][752]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-13.47.57:015][752]LogInit: FAudioDevice initialized.
+[2021.06.24-13.47.57:015][752]LogAudio: Display: Audio Device (ID: 94) registered with world 'WorldMap'.
+[2021.06.24-13.47.57:025][752]LogLoad: Game class is 'BlairGameMode_C'
+[2021.06.24-13.47.57:034][752]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_WorldMap.WorldMap up for play (max tick rate 0) at 2021.06.24-14.47.57
+[2021.06.24-13.47.57:035][752]LogWorld: Bringing up level for play took: 0.009235
+[2021.06.24-13.47.57:035][752]LogOnline: OSS: Creating online subsystem instance for: :Context_154
+[2021.06.24-13.47.57:036][752]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.24-13.47.57:038][752]PIE: Server logged in
+[2021.06.24-13.47.57:039][752]PIE: Play in editor total start time 0.132 seconds.
+[2021.06.24-13.47.57:192][769]LogBlueprintUserMessages: [Unarmed_C_0] unarmed attack
+[2021.06.24-13.47.57:900][854]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 83
+[2021.06.24-13.47.58:900][974]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 86
+[2021.06.24-13.47.59:900][ 94]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 89
+[2021.06.24-13.48.00:226][133]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.48.00:226][133]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.06.24-13.48.00:226][133]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.24-13.48.00:227][133]LogBlueprintUserMessages: [ResponsesUI_C_0] ResponsesUI_C_0
+[2021.06.24-13.48.00:227][133]LogBlueprintUserMessages: [ResponsesUI_C_1] ResponsesUI_C_1
+[2021.06.24-13.48.00:227][133]LogBlueprintUserMessages: [ResponsesUI_C_2] ResponsesUI_C_2
+[2021.06.24-13.48.00:900][214]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 92
+[2021.06.24-13.48.01:009][227]LogBlueprintUserMessages: [ResponsesUI_C_3] ResponsesUI_C_3
+[2021.06.24-13.48.01:009][227]LogBlueprintUserMessages: [ResponsesUI_C_4] ResponsesUI_C_4
+[2021.06.24-13.48.01:351][268]LogBlueprintUserMessages: [ResponsesUI_C_5] ResponsesUI_C_5
+[2021.06.24-13.48.01:351][268]LogBlueprintUserMessages: [ResponsesUI_C_6] ResponsesUI_C_6
+[2021.06.24-13.48.01:710][311]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.24-13.48.01:710][311]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2021.06.24-13.48.01:901][334]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 95
+[2021.06.24-13.48.02:834][446]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.48.02:834][446]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.06.24-13.48.02:902][454]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 98
+[2021.06.24-13.48.03:893][573]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.24-13.48.03:893][573]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.48.03:893][573]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.06.24-13.48.03:902][574]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 101
+[2021.06.24-13.48.05:751][796]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.48.05:751][796]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.06.24-13.48.08:236][ 94]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.48.08:236][ 94]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.06.24-13.48.08:236][ 94]LogBlueprintUserMessages: [ResponsesUI_C_7] ResponsesUI_C_7
+[2021.06.24-13.48.09:895][293]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.48.09:895][293]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.06.24-13.48.11:445][479]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.48.11:445][479]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.06.24-13.48.11:445][479]LogBlueprintUserMessages: [ResponsesUI_C_8] ResponsesUI_C_8
+[2021.06.24-13.48.12:736][634]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.48.12:736][634]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.06.24-13.48.16:420][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-13.48.16:420][ 70]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_WorldMap
+[2021.06.24-13.48.16:421][ 70]LogWorld: UWorld::CleanupWorld for WorldMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.48.16:429][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.48.16:460][ 70]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-13.48.16:483][ 70]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.48.16:523][ 70]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-13.48.16:523][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-13.48.16:523][ 70]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-13.48.16:536][ 70]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-13.48.16:540][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.06.24-13.48.16:580][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_154
+[2021.06.24-13.48.35:780][261]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.24-13.48.35:785][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-13.48.35:785][261]PIE: New page: PIE session: WorldMap (24 Jun 2021, 15:48:35)
+[2021.06.24-13.48.35:825][261]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_WorldMap
+[2021.06.24-13.48.35:865][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039200s)
+[2021.06.24-13.48.35:866][261]LogAIModule: Creating AISystem for world WorldMap
+[2021.06.24-13.48.35:866][261]LogPlayLevel: PIE: World Init took: (0.001373s)
+[2021.06.24-13.48.35:866][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/WorldMap.WorldMap to /Game/Levels/Maps/UEDPIE_0_WorldMap.WorldMap (0.040904s)
+[2021.06.24-13.48.35:901][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2021.06.24-13.48.35:903][261]LogAudio: Display: Creating Audio Device:                 Id: 95, Scope: Unique, Realtime: True
+[2021.06.24-13.48.35:903][261]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-13.48.35:903][261]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-13.48.35:903][261]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-13.48.35:903][261]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-13.48.35:903][261]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-13.48.35:903][261]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-13.48.35:903][261]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-13.48.35:903][261]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-13.48.35:903][261]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-13.48.35:903][261]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-13.48.35:907][261]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-13.48.35:907][261]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-13.48.35:922][261]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-13.48.35:922][261]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-13.48.35:922][261]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-13.48.35:922][261]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-13.48.35:922][261]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-13.48.35:922][261]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-13.48.35:922][261]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-13.48.35:934][261]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-13.48.35:934][261]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-13.48.35:934][261]LogInit: FAudioDevice initialized.
+[2021.06.24-13.48.35:934][261]LogAudio: Display: Audio Device (ID: 95) registered with world 'WorldMap'.
+[2021.06.24-13.48.35:943][261]LogLoad: Game class is 'BlairGameMode_C'
+[2021.06.24-13.48.35:952][261]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_WorldMap.WorldMap up for play (max tick rate 0) at 2021.06.24-14.48.35
+[2021.06.24-13.48.35:953][261]LogWorld: Bringing up level for play took: 0.009907
+[2021.06.24-13.48.35:953][261]LogOnline: OSS: Creating online subsystem instance for: :Context_155
+[2021.06.24-13.48.35:955][261]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.24-13.48.35:957][261]PIE: Server logged in
+[2021.06.24-13.48.35:958][261]PIE: Play in editor total start time 0.174 seconds.
+[2021.06.24-13.48.36:046][270]LogBlueprintUserMessages: [Unarmed_C_0] unarmed attack
+[2021.06.24-13.48.36:778][358]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 83
+[2021.06.24-13.48.37:778][478]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 86
+[2021.06.24-13.48.38:679][586]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.48.38:679][586]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.06.24-13.48.38:679][586]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.24-13.48.38:679][586]LogBlueprintUserMessages: [ResponsesUI_C_0] ResponsesUI_C_0
+[2021.06.24-13.48.38:679][586]LogBlueprintUserMessages: [ResponsesUI_C_1] ResponsesUI_C_1
+[2021.06.24-13.48.38:679][586]LogBlueprintUserMessages: [ResponsesUI_C_2] ResponsesUI_C_2
+[2021.06.24-13.48.38:779][598]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 89
+[2021.06.24-13.48.39:480][682]LogBlueprintUserMessages: [ResponsesUI_C_3] ResponsesUI_C_3
+[2021.06.24-13.48.39:480][682]LogBlueprintUserMessages: [ResponsesUI_C_4] ResponsesUI_C_4
+[2021.06.24-13.48.39:779][718]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 92
+[2021.06.24-13.48.39:838][725]LogBlueprintUserMessages: [ResponsesUI_C_5] ResponsesUI_C_5
+[2021.06.24-13.48.39:838][725]LogBlueprintUserMessages: [ResponsesUI_C_6] ResponsesUI_C_6
+[2021.06.24-13.48.40:122][759]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.24-13.48.40:122][759]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2021.06.24-13.48.40:779][838]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 95
+[2021.06.24-13.48.40:828][844]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.48.40:828][844]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.06.24-13.48.41:780][958]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 98
+[2021.06.24-13.48.41:963][980]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.24-13.48.41:963][980]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.48.41:963][980]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.06.24-13.48.42:779][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 101
+[2021.06.24-13.48.43:578][174]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.48.43:578][174]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.06.24-13.48.51:210][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-13.48.51:210][ 86]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_WorldMap
+[2021.06.24-13.48.51:211][ 86]LogWorld: UWorld::CleanupWorld for WorldMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.48.51:219][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.48.51:235][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-13.48.51:256][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.48.51:290][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-13.48.51:290][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-13.48.51:291][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-13.48.51:307][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.06.24-13.48.51:346][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2021.06.24-13.49.09:324][ 95]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GameContent/Quest/QuestUI/HUDObjectives_UI.HUDObjectives_UI
+[2021.06.24-13.50.18:798][ 86]BlueprintLog: New page: Compile CheckObjectiveTask
+[2021.06.24-13.50.18:855][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.06.24-13.50.34:737][956]BlueprintLog: New page: Compile LocationMarker
+[2021.06.24-13.50.34:741][956]LogBlueprint: Error: [AssetLog] H:\Game Dev\Unreal\Mod5\FMP\ProjectCelt\Content\GameContent\Quest\LocationMarker.uasset: [Compiler] This blueprint (self) is not a BTTask_BlueprintBase, therefore ' Target ' must have a connection.
+[2021.06.24-13.50.34:807][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.06.24-13.50.39:909][542]BlueprintLog: New page: Compile LocationMarker
+[2021.06.24-13.50.39:977][542]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.06.24-13.50.42:421][713]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.24-13.50.42:426][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.24-13.50.42:426][713]PIE: New page: PIE session: WorldMap (24 Jun 2021, 15:50:42)
+[2021.06.24-13.50.42:465][713]LogPlayLevel: Creating play world package: /Game/Levels/Maps/UEDPIE_0_WorldMap
+[2021.06.24-13.50.42:484][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019363s)
+[2021.06.24-13.50.42:485][713]LogAIModule: Creating AISystem for world WorldMap
+[2021.06.24-13.50.42:485][713]LogPlayLevel: PIE: World Init took: (0.001154s)
+[2021.06.24-13.50.42:485][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Maps/WorldMap.WorldMap to /Game/Levels/Maps/UEDPIE_0_WorldMap.WorldMap (0.020776s)
+[2021.06.24-13.50.42:519][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.06.24-13.50.42:520][713]LogAudio: Display: Creating Audio Device:                 Id: 96, Scope: Unique, Realtime: True
+[2021.06.24-13.50.42:520][713]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.24-13.50.42:520][713]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.24-13.50.42:520][713]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.24-13.50.42:520][713]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.24-13.50.42:520][713]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.24-13.50.42:520][713]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.24-13.50.42:520][713]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.24-13.50.42:520][713]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.24-13.50.42:520][713]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.24-13.50.42:520][713]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.24-13.50.42:524][713]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.24-13.50.42:524][713]LogAudioMixer: Display: 1: FrontRight
+[2021.06.24-13.50.42:539][713]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.06.24-13.50.42:539][713]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.24-13.50.42:539][713]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.24-13.50.42:539][713]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.24-13.50.42:540][713]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.24-13.50.42:540][713]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.24-13.50.42:540][713]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.24-13.50.42:540][713]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.24-13.50.42:540][713]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.24-13.50.42:540][713]LogInit: FAudioDevice initialized.
+[2021.06.24-13.50.42:540][713]LogAudio: Display: Audio Device (ID: 96) registered with world 'WorldMap'.
+[2021.06.24-13.50.42:554][713]LogLoad: Game class is 'BlairGameMode_C'
+[2021.06.24-13.50.42:563][713]LogWorld: Bringing World /Game/Levels/Maps/UEDPIE_0_WorldMap.WorldMap up for play (max tick rate 0) at 2021.06.24-14.50.42
+[2021.06.24-13.50.42:565][713]LogWorld: Bringing up level for play took: 0.009513
+[2021.06.24-13.50.42:565][713]LogOnline: OSS: Creating online subsystem instance for: :Context_158
+[2021.06.24-13.50.42:566][713]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.24-13.50.42:568][713]PIE: Server logged in
+[2021.06.24-13.50.42:569][713]PIE: Play in editor total start time 0.144 seconds.
+[2021.06.24-13.50.42:771][736]LogBlueprintUserMessages: [Unarmed_C_0] unarmed attack
+[2021.06.24-13.50.43:420][814]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 83
+[2021.06.24-13.50.44:421][934]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 86
+[2021.06.24-13.50.45:381][ 49]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.50.45:381][ 49]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2021.06.24-13.50.45:381][ 49]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2021.06.24-13.50.45:381][ 49]LogBlueprintUserMessages: [ResponsesUI_C_0] ResponsesUI_C_0
+[2021.06.24-13.50.45:381][ 49]LogBlueprintUserMessages: [ResponsesUI_C_1] ResponsesUI_C_1
+[2021.06.24-13.50.45:381][ 49]LogBlueprintUserMessages: [ResponsesUI_C_2] ResponsesUI_C_2
+[2021.06.24-13.50.45:422][ 54]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 89
+[2021.06.24-13.50.46:422][174]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 92
+[2021.06.24-13.50.46:848][225]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.50.46:848][225]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.06.24-13.50.47:422][294]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 95
+[2021.06.24-13.50.47:640][320]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.50.47:640][320]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.06.24-13.50.47:640][320]LogBlueprintUserMessages: [ResponsesUI_C_3] ResponsesUI_C_3
+[2021.06.24-13.50.47:640][320]LogBlueprintUserMessages: [ResponsesUI_C_4] ResponsesUI_C_4
+[2021.06.24-13.50.47:640][320]LogBlueprintUserMessages: [ResponsesUI_C_5] ResponsesUI_C_5
+[2021.06.24-13.50.48:031][367]LogBlueprintUserMessages: [ResponsesUI_C_6] ResponsesUI_C_6
+[2021.06.24-13.50.48:031][367]LogBlueprintUserMessages: [ResponsesUI_C_7] ResponsesUI_C_7
+[2021.06.24-13.50.48:373][408]LogBlueprintUserMessages: [ResponsesUI_C_8] ResponsesUI_C_8
+[2021.06.24-13.50.48:373][408]LogBlueprintUserMessages: [ResponsesUI_C_9] ResponsesUI_C_9
+[2021.06.24-13.50.48:422][414]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 98
+[2021.06.24-13.50.48:757][454]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.24-13.50.48:757][454]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2021.06.24-13.50.49:423][534]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 101
+[2021.06.24-13.50.49:613][557]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.50.49:613][557]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.06.24-13.50.50:431][655]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2021.06.24-13.50.50:431][655]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.50.50:431][655]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.06.24-13.50.52:089][854]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.50.52:089][854]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.06.24-13.51.01:377][871]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.51.01:377][871]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2021.06.24-13.51.01:377][871]LogBlueprintUserMessages: [ResponsesUI_C_10] ResponsesUI_C_10
+[2021.06.24-13.51.03:536][130]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.51.03:536][130]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2021.06.24-13.51.09:814][883]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SConstraintCanvas [CanvasPanel.cpp(55)]!
+[2021.06.24-13.51.09:814][883]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.06.24-13.51.09:814][883]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.06.24-13.51.11:137][ 42]LogBlueprintUserMessages: [QuestTurnIn_C_0] 200.0
+[2021.06.24-13.51.11:137][ 42]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.06.24-13.51.11:137][ 42]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.06.24-13.51.13:599][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-13.51.13:599][333]LogWorld: BeginTearingDown for /Game/Levels/Maps/UEDPIE_0_WorldMap
+[2021.06.24-13.51.13:600][333]LogWorld: UWorld::CleanupWorld for WorldMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.51.13:608][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.51.13:917][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.24-13.51.13:929][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.51.13:961][333]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.24-13.51.13:961][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-13.51.13:962][333]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.24-13.51.13:975][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.24-13.51.13:978][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.06.24-13.51.14:029][334]LogPlayLevel: Display: Destroying online subsystem :Context_158
+[2021.06.24-13.54.42:275][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.06.24-13.54.42:336][611]LogSavePackage: Moving '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/WorldMap_Auto2C216DF9947D56837B829A0A8EA630D14.tmp' to '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/Autosaves/Game/Levels/Maps/WorldMap_Auto2.umap'
+[2021.06.24-13.54.42:336][611]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Maps/WorldMap' took 0.097
+[2021.06.24-13.54.42:336][611]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.097
+[2021.06.24-13.54.42:337][611]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameContent/Quest/Quests/QuestParent] ([1] browsable assets)...
+[2021.06.24-13.54.42:337][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameContent/Quest/Quests/QuestParent]
+[2021.06.24-13.54.42:384][611]LogSavePackage: Moving '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/QuestParent_Auto27BCCA8934F532CD084F3F9943CCF92B8.tmp' to '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/Autosaves/Game/GameContent/Quest/Quests/QuestParent_Auto2.uasset'
+[2021.06.24-13.54.42:385][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GameContent/Quest/LocationMarker] ([2] browsable assets)...
+[2021.06.24-13.54.42:407][611]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameContent/Quest/LocationMarker.LocationMarker]
+[2021.06.24-13.54.42:420][611]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/GameContent/Quest/LocationMarker.LocationMarker]
+[2021.06.24-13.54.42:420][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameContent/Quest/LocationMarker]
+[2021.06.24-13.54.42:433][611]LogSavePackage: Moving '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/LocationMarker_Auto25C17A3694A861BAD219C4286093BA82F.tmp' to '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/Autosaves/Game/GameContent/Quest/LocationMarker_Auto2.uasset'
+[2021.06.24-13.54.42:434][611]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/CheckObjectiveTask] ([1] browsable assets)...
+[2021.06.24-13.54.42:434][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/CheckObjectiveTask]
+[2021.06.24-13.54.42:446][611]LogSavePackage: Moving '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/CheckObjectiveTask_Auto2B272C29D4DCC7CEA4680A9B392456736.tmp' to '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/Autosaves/Game/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/CheckObjectiveTask_Auto2.uasset'
+[2021.06.24-13.54.42:446][611]LogFileHelpers: Auto-saving content packages took 0.110
+[2021.06.24-13.57.08:254][ 75]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.57.08:254][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.57.09:060][ 75]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.24-13.57.09:061][ 75]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.57.09:061][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.57.09:404][ 75]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.24-13.57.09:404][ 75]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.57.09:404][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.57.10:266][ 75]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.57.10:266][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.57.10:641][ 75]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.57.10:641][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.57.10:647][ 75]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.57.10:647][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.57.11:072][ 75]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.57.11:072][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.57.11:078][ 75]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.57.11:078][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.57.11:213][ 75]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.24-13.57.11:213][ 75]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.57.11:213][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.57.11:314][ 75]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.57.11:314][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.57.11:356][ 75]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.57.11:356][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.57.11:398][ 75]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.57.11:398][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.57.11:402][ 75]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2021.06.24-13.57.11:402][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.24-13.57.13:824][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.06.24-13.57.13:851][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Maps/WorldMap" FILE="../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Levels/Maps/WorldMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.24-13.57.13:868][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.06.24-13.57.13:934][289]LogSavePackage: Moving '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/WorldMapF5F2F1344BDF8B1DC72212B9606F9B0E.tmp' to '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Levels/Maps/WorldMap.umap'
+[2021.06.24-13.57.13:943][289]LogFileHelpers: Saving map 'WorldMap' took 0.092
+[2021.06.24-13.57.13:943][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Quest/Quests/QuestParent" FILE="../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/Quests/QuestParent.uasset" SILENT=true
+[2021.06.24-13.57.13:990][289]LogSavePackage: Moving '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/QuestParent08E4045147C9B71DD2B56C9DA5771326.tmp' to '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/Quests/QuestParent.uasset'
+[2021.06.24-13.57.13:991][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameContent/Quest/LocationMarker" FILE="../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/LocationMarker.uasset" SILENT=true
+[2021.06.24-13.57.14:003][289]LogSavePackage: Moving '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/LocationMarker4A3124CD473C6000ED9CE480FB11E1B9.tmp' to '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/LocationMarker.uasset'
+[2021.06.24-13.57.14:006][289]LogSavePackage: Moving '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/ObjectiveCheckerE42761954AB6C81E1A22A88691BD29CC.tmp' to '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/ObjectiveChecker.uasset'
+[2021.06.24-13.57.14:016][289]LogSavePackage: Moving '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Saved/CheckObjectiveTaskFA6248E440CB9D6DBC794DB768FA6E09.tmp' to '../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/CheckObjectiveTask.uasset'
+[2021.06.24-13.57.14:033][289]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.24-13.57.14:033][289]LogContentValidation: Display: Validating Blueprint /Game/GameContent/Quest/Quests/QuestParent.QuestParent
+[2021.06.24-13.57.14:033][289]LogContentValidation: Display: Validating Blueprint /Game/GameContent/Quest/LocationMarker.LocationMarker
+[2021.06.24-13.57.14:033][289]LogContentValidation: Display: Validating Blueprint /Game/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/ObjectiveChecker.ObjectiveChecker
+[2021.06.24-13.57.14:033][289]LogContentValidation: Display: Validating Blueprint /Game/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/CheckObjectiveTask.CheckObjectiveTask
+[2021.06.24-13.57.14:033][289]LogContentValidation: Display: Validating World /Game/Levels/Maps/WorldMap.WorldMap
