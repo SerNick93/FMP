@@ -103,3 +103,8 @@ ProjectCelt/Intermediate/CachedAssetRegistry.bin
 ProjectCelt/Saved/Autosaves/PackageRestoreData.json
 ProjectCelt/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 ProjectCelt/Saved/Logs/ProjectCelt.log
+ProjectCelt/Binaries/Win64/ProjectCelt.exp
+ProjectCelt/Binaries/Win64/ProjectCelt.pdb
+ProjectCelt/Binaries/Win64/ProjectCelt.target
+ProjectCelt/Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
+ProjectCelt/Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
