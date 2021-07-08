@@ -1,3 +1,0 @@
-H:\Game Dev\Unreal\Mod5\FMP\ProjectCelt\Intermediate\Build\Win64\UE4Editor\Development\ProjectCelt\Definitions.ProjectCelt.h
-H:\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-H:\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

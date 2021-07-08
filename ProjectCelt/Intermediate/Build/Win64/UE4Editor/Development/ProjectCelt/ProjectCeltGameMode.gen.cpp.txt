@@ -1,9 +1,0 @@
-H:\Game Dev\Unreal\Mod5\FMP\ProjectCelt\Intermediate\Build\Win64\UE4Editor\Development\ProjectCelt\Definitions.ProjectCelt.h
-H:\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-H:\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-H:\Game Dev\Unreal\Mod5\FMP\ProjectCelt\Source\ProjectCelt/ProjectCeltGameMode.h
-H:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-H:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-H:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-H:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-H:\Game Dev\Unreal\Mod5\FMP\ProjectCelt\Intermediate\Build\Win64\UE4Editor\Inc\ProjectCelt\ProjectCeltGameMode.generated.h
