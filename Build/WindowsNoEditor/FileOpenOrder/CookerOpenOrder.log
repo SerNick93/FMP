@@ -1,384 +1,414 @@
 "../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/SaveGame/SaveGameFile.uasset" 0
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Reputation/RepBar.uasset" 1
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/ActiveQuestBorder.uasset" 2
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/Slate_Inactive.uasset" 3
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/Slate_Active.uasset" 4
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/QuestObjectiveItem_UI.uasset" 5
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/Objectives/ObjectiveTypes.uasset" 6
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/Objectives/ObjectiveData.uasset" 7
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/SingleObjectiveUI.uasset" 8
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/BLKCHCRY.uasset" 9
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/BLKCHCRY_Font.uasset" 10
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/BLKCHCRY.uasset" 1
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/BLKCHCRY_Font.uasset" 2
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/UserInterfaces/PauseMenu.uasset" 3
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/ActiveQuestBorder.uasset" 4
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/Slate_Inactive.uasset" 5
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/Slate_Active.uasset" 6
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/QuestObjectiveItem_UI.uasset" 7
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/Objectives/ObjectiveTypes.uasset" 8
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/Objectives/ObjectiveData.uasset" 9
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/SingleObjectiveUI.uasset" 10
 "../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/UserInterfaces/UI_LocationNamePopup.uasset" 11
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 12
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 13
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 14
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 12
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 13
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 14
 "../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 15
 "../../../Engine/Content/BasicShapes/Cube.uasset" 16
 "../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 17
 "../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/ObjectiveChecker.uasset" 18
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 19
 "../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/UserInterfaces/InteractMessage.uasset" 20
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/UserInterfaces/DialogueBox.uasset" 21
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/UserInterfaces/HUD.uasset" 22
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/BlairGameMode.uasset" 23
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/LocationMarker.uasset" 24
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Textures/FX_Fire_01.uasset" 25
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Textures/Atlas_Props_02_Opacity.uasset" 26
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 27
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Textures/Atlas_Props_02_Roughness.uasset" 28
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Textures/Atlas_Props_02.uasset" 29
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Materials/Props_Glass.uasset" 30
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Materials/Props_Glass_Inst_01.uasset" 31
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Textures/Atlas_Props_02_Normal.uasset" 32
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Textures/Atlas_Props_02_Metallic.uasset" 33
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Materials/Props_02.uasset" 34
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Materials/Props_02_Inst.uasset" 35
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Meshes/Props/Flask_01.uasset" 36
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/ItemStruct.uasset" 37
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/SlotStructure.uasset" 38
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/InventoryUI/InventoryTooltip.uasset" 39
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/InventoryUI/InventorySlot.uasset" 40
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/InventoryUI/InventoryWindow.uasset" 41
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/InventoryComponent.uasset" 42
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/BLUEPRINTS/Interfaces/I_Interact.uasset" 43
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/Items/Item.uasset" 44
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/Items/Item_Flask.uasset" 45
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/ItemRewardStruct.uasset" 46
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestStatus.uasset" 47
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/Quests/QuestParent.uasset" 48
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestLog.uasset" 49
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/HUDObjectives_UI.uasset" 50
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/QuestsLogEntry_UI.uasset" 51
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/QuestLog_UI.uasset" 52
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/QuestUI.uasset" 53
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/QuestRewardTextBlock.uasset" 54
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/QuestTurnIn.uasset" 55
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestMacros.uasset" 56
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/WeaponFoundations/Weapon.uasset" 57
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/WeaponFoundations/AttachWeaponStruct.uasset" 58
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Unarmed/Unarmed.uasset" 59
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Axe_fbx/Axe.uasset" 60
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Axe_fbx/Textures_png/Textures/Roughness.uasset" 61
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Axe_fbx/Textures_png/Textures/Normal.uasset" 62
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Axe_fbx/Textures_png/Textures/Metallic.uasset" 63
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Axe_fbx/Textures_png/Textures/BaseColor.uasset" 64
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Axe_fbx/Textures_png/Textures/M_Axe.uasset" 65
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Blair_NoUCXfbx_Skeleton.uasset" 66
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 67
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 68
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/SwingSword.uasset" 69
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/A_SwingSword.uasset" 70
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Weapon_Sword.uasset" 71
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Sword_Walking.uasset" 72
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Sword_Idle.uasset" 73
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/SwordBS.uasset" 74
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/standing_idle_01.uasset" 75
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/Bow_Walk_Forwards.uasset" 76
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/PlayerBowBS.uasset" 77
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Unarmed/Idle.uasset" 78
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Swimming/Treading_Water.uasset" 79
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Swimming/Swimming.uasset" 80
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/WeaponFoundations/EquippedWeapon.uasset" 81
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Unarmed/Walking.uasset" 82
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Unarmed/Running.uasset" 83
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Unarmed/BlairWalkRunBS.uasset" 84
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/NewPlayerBP.uasset" 85
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Blair_NoUCXfbx_PhysicsAsset.uasset" 86
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Blair_NoUCXfbx.uasset" 87
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/HEALTH/HealthBar.uasset" 88
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/PlayerMaterials/T_Blair_Opacity.uasset" 89
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/PlayerMaterials/T_Blair_Normal.uasset" 90
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/PlayerMaterials/T_Blair_Metallic_Roughness.uasset" 91
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/PlayerMaterials/T_Blair_Base_Colour.uasset" 92
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/PlayerMaterials/M_Blair_Opacity.uasset" 93
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/PlayerMaterials/M_Blair.uasset" 94
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 95
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Animations/ThirdPersonWalk.uasset" 96
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Animations/ThirdPersonRun.uasset" 97
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Animations/ThirdPersonIdle.uasset" 98
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 99
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Animations/ThirdPerson_Jump.uasset" 100
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Animations/ThirdPersonJump_Start.uasset" 101
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 102
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 103
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Bow/Bow_Diffuse.uasset" 104
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Bow/Bow_Diffuse_Mat.uasset" 105
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Bow/Bow.uasset" 106
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Arrow/Arrow_Specular.uasset" 107
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Arrow/Arrow_Roughness.uasset" 108
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Arrow/Arrow_Normal.uasset" 109
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Arrow/Arrow_Metallic.uasset" 110
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Arrow/Arrow_BaseColor.uasset" 111
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Arrow/Arrow1.uasset" 112
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Arrow/Arrow_ForBlender.uasset" 113
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/BP_Arrow.uasset" 114
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/Standing_Draw_Arrow.uasset" 115
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/Standing_Draw_Arrow_Montage.uasset" 116
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/Bow_Weapon.uasset" 117
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset" 118
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/SaveGame/GameInstanceClass.uasset" 119
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 120
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 121
-"../../../Engine/Content/BasicShapes/Cone.uasset" 122
-"../../../Engine/Content/BasicShapes/Plane.uasset" 123
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 124
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 125
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 126
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 127
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 128
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 129
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 130
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 131
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 132
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 133
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 134
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 135
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 136
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 137
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 138
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 139
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 140
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 141
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 142
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 143
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 144
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 145
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 146
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 147
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 148
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 149
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 150
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 151
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 152
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 153
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 154
-"../../../Engine/Content/EditorResources/S_Note.uasset" 155
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 156
-"../../../Engine/Content/EditorResources/S_Terrain.uasset" 157
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 158
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 159
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 160
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 161
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 162
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 163
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 164
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 165
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 166
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 167
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 168
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 169
-"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 170
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 171
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 172
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 173
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 174
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 175
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 176
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 177
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 178
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 179
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 180
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 181
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 182
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 183
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 184
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 185
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 186
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 187
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 188
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 189
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 190
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 191
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 192
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 193
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 194
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 195
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 196
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 197
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 198
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 199
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 200
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 201
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 202
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 203
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 204
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 205
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 206
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 207
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 208
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 209
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 210
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 211
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 212
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 213
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 214
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 215
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 216
-"../../../Engine/Content/EngineResources/Black.uasset" 217
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 218
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 219
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 220
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 221
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 222
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 223
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 224
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 225
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 226
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 227
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 228
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 229
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 230
-"../../../Engine/Content/EngineSounds/Master.uasset" 231
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 232
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 233
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 234
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 235
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 236
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 237
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 238
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 239
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 240
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 241
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 242
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 243
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 244
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 245
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 246
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 247
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 248
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 249
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 250
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 251
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 252
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 253
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 254
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 255
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 256
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 257
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 258
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 259
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 260
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 261
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 262
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 263
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 264
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 265
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 266
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 267
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 268
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 269
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 270
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 271
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 272
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 273
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 274
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 275
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 276
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 277
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 278
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 279
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 280
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 281
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 282
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 283
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 284
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 285
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 286
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 287
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 288
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 289
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 290
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 291
-"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 292
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 293
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 294
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 295
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 296
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 297
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/TestStuff/M_Yellow.uasset" 298
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/TestStuff/M_Red.uasset" 299
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/TestStuff/M_Green.uasset" 300
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/TestStuff/M_Blue.uasset" 301
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/Quests/Quest_Tutorial.uasset" 302
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/Quests/Quest_3.uasset" 303
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/Quests/Quest_001.uasset" 304
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/AdvancedVillagePack/Textures/Effects/T_Water_N.uasset" 305
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/AdvancedVillagePack/Materials/M_Water.uasset" 306
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/ThirdPersonCPP/Blueprints/Lake_Blueprint.uasset" 307
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Geometry/Meshes/CubeMaterial.uasset" 308
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Geometry/Meshes/1M_Cube.uasset" 309
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/StartDialogue.uasset" 310
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/NPCs/NPC_AI.uasset" 311
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/EndDialogue.uasset" 312
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/DisplayLine.uasset" 313
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/DialogueBlackboard.uasset" 314
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/NPCs/BrotherShaman/QuestNo2.uasset" 315
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Mesh/SK_Shaman_PhysicsAsset.uasset" 316
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Knife_Green/T_Shaman_Skin1_Knife_Occlusion.uasset" 317
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Knife_Green/T_Shaman_Skin1_Knife_Normal.uasset" 318
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Knife_Green/T_Shaman_Skin1_Knife_Metall_Roughness.uasset" 319
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Knife_Green/T_Shaman_Skin1_Knife_Emission.uasset" 320
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Knife_Green/T_Shaman_Skin1_Knife_Albedo.uasset" 321
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Material/Skin1_Knife_Green/Mat_Knife_Skin1_Green.uasset" 322
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Green/T_Shaman_Skin1_Green_Body_Occlusion.uasset" 323
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Green/T_Shaman_Skin1_Green_Body_Normal.uasset" 324
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Green/T_Shaman_Skin1_Green_Body_Metall_Roughness.uasset" 325
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Green/T_Shaman_Skin1_Green_Body_Emission.uasset" 326
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Green/T_Shaman_Skin1_Green_Body_Albedo.uasset" 327
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Material/Skin1_Green/Mat_Shaman_Skin1_Green_Body.uasset" 328
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Doll_Green/T_Shaman_Skin1_Doll_Roughness.uasset" 329
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Doll_Green/T_Shaman_Skin1_Doll_Occlusion.uasset" 330
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Doll_Green/T_Shaman_Skin1_Doll_Normal.uasset" 331
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Doll_Green/T_Shaman_Skin1_Doll_Emission.uasset" 332
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Doll_Green/T_Shaman_Skin1_Doll_Albedo.uasset" 333
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Material/Skin1_Doll_Green/Mat_Doll_Skin1_Green.uasset" 334
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Mesh/SK_Shaman_Skeleton.uasset" 335
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Mesh/SK_Shaman.uasset" 336
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Animation/Anim_Shaman_Idle1.uasset" 337
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Animation/ShamanAnim_BP.uasset" 338
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/NPCs/NPC.uasset" 339
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/StartQuest.uasset" 340
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/DisplayQuestEndScreen.uasset" 341
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/AskIfHasQuest.uasset" 342
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/ASkForQuestStatus.uasset" 343
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/UserInterfaces/ResponsesUI.uasset" 344
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/UserInterfaces/ResponseListUI.uasset" 345
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/AskQuestion.uasset" 346
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Decorators/CheckResponse.uasset" 347
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Decorators/CheckQuestCompletion.uasset" 348
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Decorators/CheckQuest.uasset" 349
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/NPCs/BrotherBoo.uasset" 350
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/Containers/Container.uasset" 351
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/Containers/Chest.uasset" 352
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/RemoveTree.uasset" 353
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/NPCs/BrotherShaman/LostSoul.uasset" 354
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/CheckObjectiveTask.uasset" 355
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/CheckObjective.uasset" 356
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/NPCs/BrotherEeli/BrotherEeli.uasset" 357
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 358
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 359
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 360
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 361
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 362
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 363
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 364
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 365
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 366
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 367
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 368
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 369
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/StylizedNatureVol2/Textures/Water/T_Wave_Small_N.uasset" 370
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/StylizedNatureVol2/Textures/Water/T_Water_N.uasset" 371
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/StylizedNatureVol2/Textures/Water/T_Waves_Noise.uasset" 372
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/StylizedNatureVol2/Textures/Water/T_WaveLarge_N.uasset" 373
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/StylizedNatureVol2/Textures/Utility/T_Noise_Clouds_01.uasset" 374
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 375
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/StylizedNatureVol2/Materials/Water/M_Water_Base.uasset" 376
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Animation/Anim_Shaman_Spell3.uasset" 377
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Animation/Anim_Shaman_Spell1.uasset" 378
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Animation/Anim_Shaman_Idle2.uasset" 379
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Levels/Maps/WorldMap_BuiltData.uasset" 380
-"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Levels/Maps/WorldMap.umap" 381
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 382
-"../../../Engine/Content/Maps/Entry.umap" 383
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/BlairGameMode.uasset" 21
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/MiniMap/PointOfInterest.uasset" 22
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/MiniMap/PointOfInterestWidget.uasset" 23
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/MiniMap/Minimap_PlayerIcon.uasset" 24
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/MiniMap/PlayerIconWidget.uasset" 25
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/MiniMap/Minimap_Data_Collection.uasset" 26
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/MiniMap/MiniMapTexture_JPEG.uasset" 27
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/MiniMap/M_MiniMapTexture.uasset" 28
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/MiniMap/M_MiniMapTexture_Inst.uasset" 29
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/MiniMap/MiniMapWidget.uasset" 30
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/UserInterfaces/DialogueBox.uasset" 31
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/UserInterfaces/HUD.uasset" 32
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/LocationMarker.uasset" 33
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Textures/FX_Fire_01.uasset" 34
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Textures/Atlas_Props_02_Opacity.uasset" 35
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 36
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Textures/Atlas_Props_02_Roughness.uasset" 37
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Textures/Atlas_Props_02.uasset" 38
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Materials/Props_Glass.uasset" 39
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Materials/Props_Glass_Inst_01.uasset" 40
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Textures/Atlas_Props_02_Normal.uasset" 41
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Textures/Atlas_Props_02_Metallic.uasset" 42
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Materials/Props_02.uasset" 43
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Materials/Props_02_Inst.uasset" 44
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/MultistoryDungeons/Meshes/Props/Flask_01.uasset" 45
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/ItemStruct.uasset" 46
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/SlotStructure.uasset" 47
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/InventoryUI/InventoryTooltip.uasset" 48
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/InventoryUI/UI_InventoryListItem.uasset" 49
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/InventoryUI/UI_InventoryList.uasset" 50
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/InventoryUI/InventorySlot.uasset" 51
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/InventoryUI/InventoryWindow.uasset" 52
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/InventoryComponent.uasset" 53
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/BLUEPRINTS/Interfaces/I_Interact.uasset" 54
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/Items/Item.uasset" 55
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/Items/Item_Flask.uasset" 56
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/ItemRewardStruct.uasset" 57
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestStatus.uasset" 58
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/Quests/QuestParent.uasset" 59
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestLog.uasset" 60
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/HUDObjectives_UI.uasset" 61
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/QuestsLogEntry_UI.uasset" 62
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/QuestLog_UI.uasset" 63
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/UserInterfaces/PlayerJournal/Bair.uasset" 64
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/UserInterfaces/PlayerJournal/UI_PlayerAttributes.uasset" 65
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/UserInterfaces/PlayerJournal/UI_JournalButtons.uasset" 66
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/UserInterfaces/PlayerJournal/UI_Bestiary.uasset" 67
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/MiniMap/BigMapTexture_JPEG.uasset" 68
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/MiniMap/MiniMapTexture_JPEG_Middle.uasset" 69
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/MiniMap/BigMap_Data_Collection.uasset" 70
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/MiniMap/BigMapTexture.uasset" 71
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/MiniMap/WorldMap.uasset" 72
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/UserInterfaces/PlayerJournal/UI_PlayerJournal.uasset" 73
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/QuestUI.uasset" 74
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/QuestRewardTextBlock.uasset" 75
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestUI/QuestTurnIn.uasset" 76
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/QuestMacros.uasset" 77
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/WeaponFoundations/Weapon.uasset" 78
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/WeaponFoundations/AttachWeaponStruct.uasset" 79
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Unarmed/Unarmed.uasset" 80
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Axe_fbx/Axe.uasset" 81
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Axe_fbx/Textures_png/Textures/Roughness.uasset" 82
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Axe_fbx/Textures_png/Textures/Normal.uasset" 83
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Axe_fbx/Textures_png/Textures/Metallic.uasset" 84
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Axe_fbx/Textures_png/Textures/BaseColor.uasset" 85
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Axe_fbx/Textures_png/Textures/M_Axe.uasset" 86
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 87
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 88
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Blair_NoUCXfbx_Skeleton.uasset" 89
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/SwingSword.uasset" 90
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/A_SwingSword.uasset" 91
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Weapon_Sword.uasset" 92
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/PlayerMaterials/T_Blair_Opacity.uasset" 93
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/PlayerMaterials/T_Blair_Normal.uasset" 94
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/PlayerMaterials/T_Blair_Metallic_Roughness.uasset" 95
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/PlayerMaterials/T_Blair_Base_Colour.uasset" 96
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/PlayerMaterials/M_Blair_Opacity.uasset" 97
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/PlayerMaterials/M_Blair.uasset" 98
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Reputation/RepBar.uasset" 99
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Unarmed/Idle.uasset" 100
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Sword_Idle.uasset" 101
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Swimming/Treading_Water.uasset" 102
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Swimming/Swimming.uasset" 103
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/standing_idle_01.uasset" 104
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/WeaponFoundations/EquippedWeapon.uasset" 105
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Unarmed/Walking.uasset" 106
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Unarmed/Running.uasset" 107
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Unarmed/BlairWalkRunBS.uasset" 108
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/Sword_Walking.uasset" 109
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Sword/SwordBS.uasset" 110
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/Bow_Walk_Forwards.uasset" 111
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/PlayerBowBS.uasset" 112
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/NewPlayerBP.uasset" 113
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Blair_NoUCXfbx_PhysicsAsset.uasset" 114
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Blair_NoUCXfbx.uasset" 115
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 116
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Animations/ThirdPersonWalk.uasset" 117
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Animations/ThirdPersonRun.uasset" 118
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Animations/ThirdPersonIdle.uasset" 119
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 120
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Animations/ThirdPerson_Jump.uasset" 121
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Animations/ThirdPersonJump_Start.uasset" 122
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 123
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 124
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Bow/Bow_Diffuse.uasset" 125
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Bow/Bow_Diffuse_Mat.uasset" 126
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Bow/Bow.uasset" 127
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Arrow/Arrow_Specular.uasset" 128
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Arrow/Arrow_Roughness.uasset" 129
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Arrow/Arrow_Normal.uasset" 130
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Arrow/Arrow_Metallic.uasset" 131
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Arrow/Arrow_BaseColor.uasset" 132
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Arrow/Arrow1.uasset" 133
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/TEMPAsset/Arrow/Arrow_ForBlender.uasset" 134
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/BP_Arrow.uasset" 135
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/Standing_Draw_Arrow.uasset" 136
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/Standing_ReleaseBow.uasset" 137
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/Standing_Draw_Arrow_Trimmed.uasset" 138
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/Standing_AimBow.uasset" 139
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/Standing_FireBow.uasset" 140
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/Mon_Standard_FireRelease.uasset" 141
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/Mon_Standard_Firebow.uasset" 142
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/PLAYER/Bow/Bow_Weapon.uasset" 143
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/HEALTH/HealthBar.uasset" 144
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset" 145
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/SaveGame/GameInstanceClass.uasset" 146
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 147
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 148
+"../../../Engine/Content/BasicShapes/Cone.uasset" 149
+"../../../Engine/Content/BasicShapes/Plane.uasset" 150
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 151
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 152
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 153
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 154
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 155
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 156
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 157
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 158
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 159
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 160
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 161
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 162
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 163
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 164
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 165
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 166
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 167
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 168
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 169
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 170
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 171
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 172
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 173
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 174
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 175
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 176
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 177
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 178
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 179
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 180
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 181
+"../../../Engine/Content/EditorResources/S_Note.uasset" 182
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 183
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 184
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 185
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 186
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 187
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 188
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 189
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 190
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 191
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 192
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 193
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 194
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 195
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 196
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 197
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 198
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 199
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 200
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 201
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 202
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 203
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 204
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 205
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 206
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 207
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 208
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 209
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 210
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 211
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 212
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 213
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 214
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 215
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 216
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 217
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 218
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 219
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 220
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 221
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 222
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 223
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 224
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 225
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 226
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 227
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 228
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 229
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 230
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 231
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 232
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 233
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 234
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 235
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 236
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 237
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 238
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 239
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 240
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 241
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 242
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 243
+"../../../Engine/Content/EngineResources/Black.uasset" 244
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 245
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 246
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 247
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 248
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 249
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 250
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 251
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 252
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 253
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 254
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 255
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 256
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 257
+"../../../Engine/Content/EngineSounds/Master.uasset" 258
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 259
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 260
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 261
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 262
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 263
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 264
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 265
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 266
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 267
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 268
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 269
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 270
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 271
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 272
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 273
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 274
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 275
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 276
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 277
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 278
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 279
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 280
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 281
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 282
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 283
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 284
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 285
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 286
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 287
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 288
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 289
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 290
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 291
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 292
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 293
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 294
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 295
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 296
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 297
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 298
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 299
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 300
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 301
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 302
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 303
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 304
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 305
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 306
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 307
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 308
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 309
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 310
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 311
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 312
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 313
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 314
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 315
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 316
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 317
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 318
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 319
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 320
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 321
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 322
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 323
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 324
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 325
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 326
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/StylizedNatureVol2/Textures/Water/T_Wave_Small_N.uasset" 327
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/StylizedNatureVol2/Textures/Water/T_Water_N.uasset" 328
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/StylizedNatureVol2/Textures/Water/T_Waves_Noise.uasset" 329
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/StylizedNatureVol2/Textures/Water/T_WaveLarge_N.uasset" 330
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/StylizedNatureVol2/Textures/Utility/T_Noise_Clouds_01.uasset" 331
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 332
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 333
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/StylizedNatureVol2/Materials/Water/M_Water_Base.uasset" 334
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Levels/Maps/WorldMap_BuiltData.uasset" 335
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Mesh/SK_Shaman_Skeleton.uasset" 336
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Animation/Anim_Shaman_Spell3.uasset" 337
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Animation/Anim_Shaman_Spell1.uasset" 338
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Animation/Anim_Shaman_Idle2.uasset" 339
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Animation/Anim_Shaman_Idle1.uasset" 340
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/Quests/Quest_Tutorial.uasset" 341
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/Quests/Quest_3.uasset" 342
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/Quests/Quest_001.uasset" 343
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/AdvancedVillagePack/Textures/Effects/T_Water_N.uasset" 344
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/AdvancedVillagePack/Materials/M_Water.uasset" 345
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/ThirdPersonCPP/Blueprints/Lake_Blueprint.uasset" 346
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Geometry/Meshes/CubeMaterial.uasset" 347
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Geometry/Meshes/1M_Cube.uasset" 348
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/TestStuff/M_Yellow.uasset" 349
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/TestStuff/M_Red.uasset" 350
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/TestStuff/M_Green.uasset" 351
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Quest/TestStuff/M_Blue.uasset" 352
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/StartDialogue.uasset" 353
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/NPCs/NPC_AI.uasset" 354
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/EndDialogue.uasset" 355
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/DisplayLine.uasset" 356
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/DialogueBlackboard.uasset" 357
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/NPCs/BrotherShaman/QuestNo2.uasset" 358
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Mesh/SK_Shaman_PhysicsAsset.uasset" 359
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Knife_Green/T_Shaman_Skin1_Knife_Occlusion.uasset" 360
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Knife_Green/T_Shaman_Skin1_Knife_Normal.uasset" 361
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Knife_Green/T_Shaman_Skin1_Knife_Metall_Roughness.uasset" 362
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Knife_Green/T_Shaman_Skin1_Knife_Emission.uasset" 363
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Knife_Green/T_Shaman_Skin1_Knife_Albedo.uasset" 364
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Material/Skin1_Knife_Green/Mat_Knife_Skin1_Green.uasset" 365
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Green/T_Shaman_Skin1_Green_Body_Occlusion.uasset" 366
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Green/T_Shaman_Skin1_Green_Body_Normal.uasset" 367
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Green/T_Shaman_Skin1_Green_Body_Metall_Roughness.uasset" 368
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Green/T_Shaman_Skin1_Green_Body_Emission.uasset" 369
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Green/T_Shaman_Skin1_Green_Body_Albedo.uasset" 370
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Material/Skin1_Green/Mat_Shaman_Skin1_Green_Body.uasset" 371
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Doll_Green/T_Shaman_Skin1_Doll_Roughness.uasset" 372
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Doll_Green/T_Shaman_Skin1_Doll_Occlusion.uasset" 373
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Doll_Green/T_Shaman_Skin1_Doll_Normal.uasset" 374
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Doll_Green/T_Shaman_Skin1_Doll_Emission.uasset" 375
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Textures/Skin1_Doll_Green/T_Shaman_Skin1_Doll_Albedo.uasset" 376
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Material/Skin1_Doll_Green/Mat_Doll_Skin1_Green.uasset" 377
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Mesh/SK_Shaman.uasset" 378
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Shaman/Animation/ShamanAnim_BP.uasset" 379
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/MiniMap/MiniMap_QuestIcon.uasset" 380
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/NPCs/NPC.uasset" 381
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/StartQuest.uasset" 382
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/DisplayQuestEndScreen.uasset" 383
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/AskIfHasQuest.uasset" 384
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/ASkForQuestStatus.uasset" 385
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/UserInterfaces/ResponsesUI.uasset" 386
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/UserInterfaces/ResponseListUI.uasset" 387
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/AskQuestion.uasset" 388
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Decorators/CheckResponse.uasset" 389
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Decorators/CheckQuestCompletion.uasset" 390
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Decorators/CheckQuest.uasset" 391
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/NPCs/BrotherBoo.uasset" 392
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/Containers/Container.uasset" 393
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/Inventory/Containers/Chest.uasset" 394
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/Tasks/RemoveTree.uasset" 395
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/NPCs/BrotherShaman/LostSoul.uasset" 396
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/CheckObjectiveTask.uasset" 397
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/DIALOGUE/DialogueTrees/ObjectiveCheckComponent/CheckObjective.uasset" 398
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/GameContent/NPCs/BrotherEeli/BrotherEeli.uasset" 399
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 400
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 401
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 402
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 403
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 404
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 405
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 406
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 407
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 408
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 409
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 410
+"../../../../Game Dev/Unreal/Mod5/FMP/ProjectCelt/Content/Levels/Maps/WorldMap.umap" 411
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 412
+"../../../Engine/Content/Maps/Entry.umap" 413
